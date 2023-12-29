@@ -2,7 +2,7 @@
 
 1. JMP
 
-![jmp](https://github.com/qor6/DataProcessing/assets/87318054/1ddf25f7-3d7b-42b4-86fd-190363cabb2e)
+
 
 2. KNIME
    
