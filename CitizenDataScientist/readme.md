@@ -1,5 +1,9 @@
 동아대학교 방학 때 진행하는 CDS 빅데이터 전문가 양성 교육
 
+![poster](https://github.com/qor6/DataProcessing/assets/87318054/69929c52-4d1d-46bd-9468-a660b57ad0fc)
+
+
+
 1. JMP
 
 ![jmp](https://github.com/qor6/DataProcessing/assets/87318054/326cd40a-5e3a-47cb-bc74-115c63534760)
