@@ -7,5 +7,5 @@
 - PythonForDataAnalysis / Model : 개인 학습
 
 
-자료구조
+python 자료구조
 
