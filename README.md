@@ -7,7 +7,7 @@
 - PythonForDataAnalysis / Model : 개인 학습
 
 3. HandsOnGNN
-- DSL 겨울 세미나 실습 2024.02.19 ~ 2024.02.21
+- DSL 겨울 세미나 실습 2024.02.19 ~ 2024.02.21 (ch1~ch3 presentation)
 
 python 자료구조
 
