@@ -8,4 +8,7 @@
 
 3. HandsOnGNN
 - DSL 겨울 세미나 실습 2024.02.19 ~ 2024.02.21 (ch1~ch3 presentation)
-
+- DeepWalk(Word2Vec), Nov2Vec
+- GCN 제외
+- GraphSAGE, Graph Classification, Graph Isomorphism Network,Link Prediction, Graph Autoencoder, Variational Graph Autoencoder
+- 
