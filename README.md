@@ -6,6 +6,8 @@
 - CitizenDataScientist_donga
 - PythonForDataAnalysis / Model : 개인 학습
 
+3. HandsOnGNN
+- DSL 겨울 세미나 실습 2024.02.19 ~ 2024.02.21
 
 python 자료구조
 
