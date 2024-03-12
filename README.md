@@ -11,4 +11,3 @@
 - DeepWalk(Word2Vec), Nov2Vec
 - GCN 제외
 - GraphSAGE, Graph Classification, Graph Isomorphism Network,Link Prediction, Graph Autoencoder, Variational Graph Autoencoder
-- 
