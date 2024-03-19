@@ -13,4 +13,4 @@
 - GraphSAGE, Graph Classification, Graph Isomorphism Network,Link Prediction, Graph Autoencoder, Variational Graph Autoencoder
 
 **4. AIOSS_donga**
-- AI oss 수업 관련 과제 및 실습 업로드(aioss fork되어 있는 AICMM)
+- AI oss 수업(집중이수) 관련 과제 업로드(aioss fork되어 있는 AICMM)
