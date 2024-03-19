@@ -4,12 +4,10 @@ about: AICMM Create a new function in application
 title: '[Function]:'
 labels: [bug, documentation]
 assignees: 
-  - Prcnsi
-  - yeryeong713
   - qor6
     
 ---
-auth: @Prcnsi, issue: #30
+auth: @qor6, issue: #30
 
 _**Description**_
  - Purpose:
