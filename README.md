@@ -14,4 +14,4 @@
 
 **4. AIOSS_donga**
 - AI oss 수업(집중이수) 관련 과제 업로드(ai oss fork되어 있는 AICMM)
-- .github/ISSUE_TEMPLATE is issue template / project
+- .github/ISSUE_TEMPLATE is issue template / project (https://github.com/qor6/aitest/pull/2)
